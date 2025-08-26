@@ -19,7 +19,7 @@ export const AddButton = styled.button `
     `
 
 export const Container = styled.div `
-    background-color: #b752ff;
+    background-color: #116877;
     padding: 20px;
     border-radius: 12px;
 

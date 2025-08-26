@@ -5,7 +5,8 @@
 }
 
 body {
-  background: #000;
+  background-image: url("./hollow.jpg");
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
