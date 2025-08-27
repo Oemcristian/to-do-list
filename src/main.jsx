@@ -1,10 +1,13 @@
+import { Provider } from "./components/ui/provider"
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import Home from './pages/Home/index.jsx'
 
+
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Home />
-  </StrictMode>,
+      <Home />
+  </StrictMode>
 )
